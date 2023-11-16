@@ -1,3 +1,4 @@
+### Project Overview
 Certainly! The "[Spotify Analytics](https://github.com/OLUJUWON-OMOTOBA/Project-10/blob/main/Spotify.pbix)" Power BI project is designed to provide insights and visualizations into user engagement, music trends, and other key metrics within the Spotify music streaming platform. This project involves collecting, analyzing, and visualizing data related to user interactions, popular songs, and other relevant details to empower stakeholders with valuable insights. Here's an overview of the key components and features that might be included in the "Spotify Analytics" Power BI project:
 
 1. **Data Sources:**
