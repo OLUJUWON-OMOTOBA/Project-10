@@ -47,3 +47,4 @@ Certainly! The "[Spotify Analytics](https://github.com/OLUJUWON-OMOTOBA/Project-
     - Integration with social media platforms or external APIs for additional insights into user preferences and trends.
 
 The "Spotify Analytics" Power BI project serves as a powerful tool for Spotify executives, analysts, and stakeholders to gain actionable insights into user behaviors, music trends, and overall platform performance. It enables data-driven decision-making to enhance the user experience and optimize content delivery on the Spotify platform.
+![Screenshot 2023-11-24 182352](https://github.com/OLUJUWON-OMOTOBA/Project-10/assets/134015058/ccd9ffe8-8977-48f1-8b61-832e6edd2f9a)
